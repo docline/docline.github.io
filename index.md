@@ -1,3 +1,0 @@
-# DocLine
-
-Research project

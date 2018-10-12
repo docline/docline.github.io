@@ -1,0 +1,19 @@
+<html>
+<head>
+<script type="text/javascript">
+var language = navigator.language || navigator.browserLanguage;
+var lcn = location.href;
+if (location.pathname == '/')
+  lcn += 'index.html'; 
+if(language.startsWith("ru-")) {
+  location = lcn.replace('.html', '.ru.html');
+} else {
+  location = lcn.replace('.html', '.en.html');
+}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<a href='index.ru.html'><img src='/img/ru_flag.png'/>Русский</a> / <a href='index.en.html'><img src='/img/en_flag.png'/>English</a>
+</body>
+</html>
