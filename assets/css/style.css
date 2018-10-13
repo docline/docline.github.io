@@ -1,4 +1,4 @@
-/* based on style #6 http://pythoughts.com/table-style-css/ */
+@import url("default_github_style.css");
 
 h1 {
   text-align: center;

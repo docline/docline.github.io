@@ -3,8 +3,3 @@ name: DocLine
 
 # Short bio or description (displayed in the header)
 description: DocLine research project
-
-css:
-  css:
-    - /assets/css/default_github_style.css
-    - /assets/css/style.css
