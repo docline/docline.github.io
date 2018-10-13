@@ -3,3 +3,7 @@ name: DocLine
 
 # Short bio or description (displayed in the header)
 description: DocLine research project
+
+css:
+  css:
+    - /css/justify.css
