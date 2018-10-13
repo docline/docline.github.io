@@ -16,8 +16,8 @@ Our tool works in two modes:
 
 The first mode\'s purpose is to provide an express estimate of the
 number of near duplicates in a document. However, due to being
-automatic, it does not allow to identify semantically correct duplicates
-- often, meaningless phrases that are identical syntax-wise are merged,
+automatic, it does not allow to identify semantically correct duplicates —
+often, meaningless phrases that are identical syntax-wise are merged,
 while significant duplicates are not extracted fully. There are other
 problems as well. Nevertheless, this mode provides an adequate general
 idea on the \"density\" of duplicates in a document. From there on, the
