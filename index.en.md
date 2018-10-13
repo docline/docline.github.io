@@ -28,7 +28,7 @@ The tool's source code is available
 [here](https://github.com/spbu-se/pldoctoolkit/blob/master/doc-clone-miner/README_en.md).
 
 This research, including tool implementation, is carried out as a part
-of [DocLine](docline/index.en.html) research project.
+of [DocLine](docline/index.en) research project.
 
 Publications
 ============
