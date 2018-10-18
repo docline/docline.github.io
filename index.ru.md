@@ -71,7 +71,7 @@ Duplicate Finder
 ==========
 
 | Авторы                                                                       | Название                                                                                | Издание                                                                                                                                                         | Скачать
-|-|-|:--:|
+|-|-|-|:--:|
 | D. Luciv, D. Koznov, G. Chernishev, H.A. Basit, K. Romanovsky, A. Terekhov   | Duplicate finder toolkit                                                                | Proceedings of the 40th International Conference on Software Engineering (ICSE 2018), ACM, 2018. — P. 171–172                                                   | [![pdf](/img/pdf.png)](/pdf/dluciv.dkoznov.gchernichev.hbasit.kromanovsky.aterekhov.2018.icse.pdf)
 | D. Luciv, D. V. Koznov, G. Chernishev, A. N. Terekhov, Konstantin Romanovsky, D. Grigoriev | Detecting Near Duplicates in Software Documentation | Programming and Computer Software, 2018, Vol. 44, No. 4, pp. 335–343                                                                                                                 | [![pdf](/img/pdf.png)](/pdf/dluciv.dkoznov.gchernichev.aterekhov.kromanovsky.dgrigoriev.2018.programming.en.pdf)
 | D.V. Koznov, D.V. Luciv, G.A. Chernishev, A.N. Terekhov                      | Detecting Near Duplicates in Software Documentation                                     | ArXiv EPrint, 2017                                                                                                                                              | [![pdf](/img/pdf.png)](https://arxiv.org/pdf/1711.04705.pdf)                        |
