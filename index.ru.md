@@ -65,7 +65,7 @@ Duplicate Finder
 [DocLine](docline/index.ru).
 
 Контакты
-========
+--------
 
 Научный руководитель проекта | Дмитрий Кознов | `dkoznov [at] yandex.ru`
 Технический руководитель     | Дмитрий Луцив  | `dluciv [at] math.spbu.ru`
