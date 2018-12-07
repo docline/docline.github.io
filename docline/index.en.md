@@ -56,8 +56,8 @@ Download sources of DocLine for Eclipse
 Contacts
 --------
 
-Project scientific leader: | Dmitry Koznov | `dkoznov [at] yandex.ru`
-Technical leader:          | Dmitry Luciv  | `dluciv [at] math.spbu.ru`
+Project scientific leader | Dmitry Koznov | `dkoznov [at] yandex.ru`
+Technical leader          | Dmitry Luciv  | `dluciv [at] math.spbu.ru`
 
 Publications
 ------------

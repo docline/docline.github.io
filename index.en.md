@@ -30,8 +30,11 @@ The tool's source code is available
 This research, including tool implementation, is carried out as a part
 of [DocLine](docline/index.en) research project.
 
-Project scientific leader: | Dmitry Koznov | `dkoznov [at] yandex.ru`
-Technical leader:          | Dmitry Luciv  | `dluciv [at] math.spbu.ru`
+Contacts
+========
+
+Project scientific leader | Dmitry Koznov | `dkoznov [at] yandex.ru`
+Technical leader          | Dmitry Luciv  | `dluciv [at] math.spbu.ru`
 
 
 Publications
