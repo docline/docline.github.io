@@ -1,7 +1,7 @@
 Duplicate Finder
 ================
 
-[![](/img/ru_flag.png)Русский](index.ru) / ![](/img/en_flag.png)**English**
+[![](/img/ru.png)Русский](index.ru) / ![](/img/en.png)**English**
 
 This tool is designed for detection and analysis of near duplicates in
 software documentation. Two text fragments are considered near
