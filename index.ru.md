@@ -5,7 +5,6 @@ title: Duplicate Finder
 
 # Duplicate Finder
 
-
 ![](/img/ru.png)**Русский** / [![](/img/en.png)English](index.en)
 
 Проблема поиска неточных повторов в документации программного
