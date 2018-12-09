@@ -1,9 +1,9 @@
 ---
 lang: ru
+title: Duplicate Finder
 ---
 
-Duplicate Finder
-================
+# Duplicate Finder
 
 ![](/img/ru.png)**Русский** / [![](/img/en.png)English](index.en)
 
