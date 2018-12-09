@@ -3,10 +3,6 @@ title: DocLine
 lang: en
 ---
 
-# DocLine
-
-[![](/img/ru.png)Русский](index.ru) / ![](/img/en.png)**English**
-
 DocLine project was started in 2004 on the Software Engineering Chair of
 the Faculty of Mathematics and Mechanics of Saint-Petersburg State
 University in cooperation with CASE-technologies Laboratory of the

@@ -3,10 +3,6 @@ lang: en
 title: Duplicate Finder
 ---
 
-# Duplicate Finder
-
-[![](/img/ru.png)Русский](index.ru) / ![](/img/en.png)**English**
-
 This tool is designed for detection and analysis of near duplicates in
 software documentation. Two text fragments are considered near
 duplicates if they contain common information expressed identically in

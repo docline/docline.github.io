@@ -3,10 +3,6 @@ title: DocLine
 lang: ru
 ---
 
-# DocLine
-
-![](/img/ru.png)**Русский** / [![](/img/en.png)English](index.en)
-
 В общем
 -------
 
