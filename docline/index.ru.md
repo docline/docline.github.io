@@ -1,5 +1,6 @@
 ---
 title: DocLine
+lang: ru
 ---
 
 DocLine

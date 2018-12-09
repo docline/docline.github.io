@@ -1,3 +1,7 @@
+---
+lang: ru
+---
+
 Duplicate Finder
 ================
 

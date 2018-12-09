@@ -1,3 +1,7 @@
+---
+lang: en
+---
+
 Duplicate Finder
 ================
 
