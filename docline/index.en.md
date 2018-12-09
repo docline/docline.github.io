@@ -1,6 +1,6 @@
 ---
+layout: default
 title: DocLine
-lang: en
 ---
 
 DocLine project was started in 2004 on the Software Engineering Chair of

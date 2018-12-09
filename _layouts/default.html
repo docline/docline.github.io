@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{page.lang}}">
+{% assign pnsections = page.url | split: "/" | last | split: "." %}
+{% assign plang = pnsections[1] %}
+{% assign pbase = pnsections[0] %}
+<html lang="{{plang}}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -36,9 +39,9 @@
       <h1>{{page.title}}</h1>
 
       <p>
-        {% if page.lang == 'ru' %} <img src="/img/ru.png"/>&nbsp;<b>Русский</b> {% else %} <a href="index.ru"><img src="/img/ru.png"/>&nbsp;Русский</a> {% endif %}
+        {% if plang == 'ru' %} <img src="/img/ru.png"/>&nbsp;<b>Русский</b> {% else %} <a href="{{pbase}}.ru"><img src="/img/ru.png"/>&nbsp;Русский</a> {% endif %}
         /
-        {% if page.lang == 'en' %} <img src="/img/en.png"/>&nbsp;<b>English</b> {% else %} <a href="index.en"><img src="/img/en.png"/>&nbsp;English</a> {% endif %}
+        {% if plang == 'en' %} <img src="/img/en.png"/>&nbsp;<b>English</b> {% else %} <a href="{{pbase}}.en"><img src="/img/en.png"/>&nbsp;English</a> {% endif %}
       </p>
 
       {{content}}

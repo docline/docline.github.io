@@ -1,5 +1,5 @@
 ---
-lang: ru
+layout: default
 title: Duplicate Finder
 ---
 

@@ -1,6 +1,6 @@
 ---
+layout: default
 title: DocLine
-lang: ru
 ---
 
 В общем
