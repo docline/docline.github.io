@@ -40,8 +40,6 @@ Current state
     -   mining variative text clones automatically (иthe tools can be
         launched from shel in batch mode)
 
-[]{#downloads}
-
 Downloads
 ---------
 
