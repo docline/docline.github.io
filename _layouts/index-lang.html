@@ -5,7 +5,7 @@ var language = navigator.language || navigator.browserLanguage;
 var lcn = location.href;
 if (location.pathname.endsWith('/'))
   lcn += 'index.html';
-if(language.startsWith("ru-")) {
+if(language.startsWith("ru")) {
   location = lcn.replace('.html', '.ru');
 } else {
   location = lcn.replace('.html', '.en');
