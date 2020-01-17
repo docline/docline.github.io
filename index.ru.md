@@ -73,8 +73,6 @@ title: Duplicate Finder
 Публикации
 ----------
 
-Koznov et al., “Extraction of Archetype from Near Duplicates in Software Documentation.”
-
 | Авторы                                                                       | Название                                                                                | Издание                                                                                                                                                         | Скачать
 |-|-|-|:--:|
 | D. Luciv, D. Koznov, G. Chernishev, H.A. Basit, K. Romanovsky, A. Terekhov   | Duplicate finder toolkit                                                                | Proceedings of the 40th International Conference on Software Engineering (ICSE 2018), ACM, 2018. — P. 171–172                                                   | [![pdf](/img/pdf.png)](/pdf/articles/dluciv.dkoznov.gchernichev.hbasit.kromanovsky.aterekhov.2018.icse.pdf)
